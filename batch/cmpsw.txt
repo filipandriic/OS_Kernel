@@ -1,0 +1,1 @@
+-mh -w- -y -v -Ic:\bc31\include;C:\bc31\BIN\vscode\lib;C:\bc31\BIN\vscode\h -Lc:\bc31\lib;C:\bc31\BIN\vscode\lib -nC:\bc31\BIN\vscode\output -evs_test.exe
